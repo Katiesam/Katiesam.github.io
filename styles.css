@@ -1,9 +1,10 @@
 
 body {
-    background-color: rgb(240, 220, 248);
+    background-color: rgb(252, 215, 187);
     color: rgb(0,0,0);
     font-family: "Open Sans", cursive;
     text-align: center;
+    margin: 20px 10% 0 10%;
 }
 
 #content {
